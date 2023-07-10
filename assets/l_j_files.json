@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+      "name": "Michael",
+      "profile": "Est id sunt laborum elit excepteur Lorem excepteur aliqua ullamco anim laboris. In fugiat occaecat pariatur velit nisi Lorem excepteur sunt irure sint consectetur laboris velit. Officia minim pariatur aliqua anim nostrud consequat ea eiusmod exercitation dolor. Officia duis labore laborum eu. Eiusmod cupidatat et.",
+      "age": 19,
+      "photo": "https://lh3.googleusercontent.com/x-Z35q6HsBB98J85-4oNqPnOen4pZBaNCpHawzf_ejs-pkgh6Eh3D2Fu7S1T4gEj0yWZ0c6DOAHCpA=w1108-h461-p-l90-rj"
+    },
+    {
+      "name": "Wiafe",
+      "profile": "Occaecat aliquip velit ad nostrud ipsum aute excepteur deserunt. Esse cupidatat proident ullamco ea veniam anim aliqua proident do consequat sunt. In do anim enim cillum eu. Ullamco fugiat nisi velit dolore eiusmod pariatur exercitation eu duis. Ullamco tempor esse do voluptate velit voluptate exercitation amet.",
+      "age": 21,
+      "photo": "https://cdn.ghanaweb.com/imagelib/pics/564/56414530.jpg"
+    },
+    {
+      "name": "Ishmael",
+      "profile": "Sint fugiat laborum laborum duis quis proident consequat sunt dolor pariatur occaecat duis. Labore ad incididunt dolore nulla et dolor. Laboris pariatur aliquip ex esse.",
+      "age": 23,
+      "photo": "https://www.blackpast.org/wp-content/uploads/ishmael-beah.jpg"
+    },
+    {
+      "name": "Yaw",
+      "profile": "Commodo do commodo sit tempor adipisicing adipisicing reprehenderit dolor officia. Proident cillum adipisicing ea pariatur. Laborum Lorem adipisicing ex elit aute proident elit eu ullamco culpa. Excepteur ea elit officia dolore enim aliquip eiusmod laborum magna. Reprehenderit veniam labore quis ipsum exercitation est.",
+      "age": 22,
+      "photo": "https://www.ghanabusinessnews.com/wp-content/uploads/2022/09/Yaw-Annor.jpeg"
+    },
+    {
+      "name": "Preko",
+      "profile": "Et excepteur fugiat aute velit commodo dolor pariatur anim do consequat fugiat. Dolor velit aliquip cupidatat exercitation. Cupidatat ullamco excepteur eiusmod dolore elit elit irure sint pariatur cillum esse nostrud aute. Deserunt proident nostrud ea nisi anim reprehenderit. Est duis non quis dolore pariatur dolor.",
+      "age": 20,
+      "photo": "https://cms.ghanasoccernet.com/wp-content/uploads/2021/03/Yaw-Preko.jpeg"
+    },
+    {
+      "name": "Fredo",
+      "profile": "Mollit ad commodo eiusmod esse ad nulla dolore velit consectetur nulla ullamco quis. Aliquip dolor proident irure consectetur duis commodo est ea. Pariatur id qui pariatur est. In do excepteur amet esse proident consequat aliquip ut eu sint aliqua. Labore aute id tempor culpa nulla est proident adipisicing labore.",
+      "age": 18,
+      "photo": "https://www.thesun.co.uk/wp-content/uploads/2023/02/aj-fredo-op.jpg?strip=all&quality=100&w=1620&h=1080&crop=1"
+    },
+    {
+      "name": "Aligata",
+      "profile": "Irure est non ut est elit reprehenderit sunt incididunt nulla nulla qui voluptate aliqua. Veniam est nisi nostrud pariatur. Amet labore aute commodo incididunt officia Lorem aliqua aliqua eiusmod. Tempor pariatur minim laboris duis non ipsum tempor esse duis officia cupidatat est sunt. Excepteur adipisicing cupidatat.",
+      "age": 17,
+      "photo": "https://i0.wp.com/www.ghanamusic.com/wp-content/uploads/2023/05/Aligata-App-Pic.jpg?fit=1200%2C675&ssl=1"
+    },
+    {
+      "name": "Farida",
+      "profile": "Laborum ullamco elit adipisicing occaecat. Pariatur elit sunt et duis magna. Cillum aute ut nostrud tempor consequat labore laborum excepteur ea. Velit id eiusmod sit veniam labore. Deserunt consequat anim aliqua sint proident. Ullamco laboris amet labore id minim aliquip culpa magna aute magna pariatur ex aliqua.",
+      "age": 18,
+      "photo": "https://www.billboard.com/wp-content/uploads/media/Farida-Sara-Abraham-2016-billboard-650.jpg?w=650"
+    }
+  ]
+}
