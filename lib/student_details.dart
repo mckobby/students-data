@@ -117,7 +117,7 @@ class StudentDetails extends StatelessWidget {
                       ),
                       padding: MaterialStateProperty.all(
                         const EdgeInsets.symmetric(
-                          horizontal: 110,
+                          horizontal: 80,
                           vertical: 15,
                         ),
                       ),
@@ -127,7 +127,7 @@ class StudentDetails extends StatelessWidget {
                     ),
                     onPressed: () {},
                     child: const Text(
-                      'Add to cart',
+                      'Select Student',
                       style: TextStyle(
                         fontSize: 18,
                         fontWeight: FontWeight.bold,
